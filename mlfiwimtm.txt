@@ -1,7 +1,8 @@
 Full Name (My List for Installation For When I Move to MacOS (Yep, I'm getting a Mac.))
 
 Automake
-Bash\Bc
+Bash
+Bc
 Binutils
 Bison
 Bzip2
