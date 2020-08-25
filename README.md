@@ -7,3 +7,5 @@ And yes, I'd be fine with sacrificing the smaller size but it's not ***THAT*** b
 It's a .8 GB difference anyways.
 
 Thanks to the guy who created Linux From Scratch for help in creating this with his book he made.
+
+UPDATE: I am no longer using the LFS Book. I downloaded a video from some Indian guy. 
