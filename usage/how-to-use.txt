@@ -1,0 +1,6 @@
+First get a Linux VM if you don't already.
+
+Install NASM and QEMU.
+
+Download the source code and compile.
+Run with QEMU.
